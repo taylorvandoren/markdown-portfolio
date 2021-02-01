@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+**Links**
+- [personal website](www.taylorvandoren.com)
+- [twitter](www.twitter.com/taylor_vandoren)
